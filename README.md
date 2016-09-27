@@ -1,1 +1,1 @@
-# simole functioning Battle-Ship game using python
+# simple functioning Battle-Ship game using python
